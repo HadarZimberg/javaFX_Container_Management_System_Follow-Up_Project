@@ -1,0 +1,8 @@
+name: Hadar Zimberg
+
+ID: 318439346
+
+exercise #3
+
+Please read the knownIssues file before cheking.
+Then run the project and press the "move" button several times. **More than one container can be loaded on the ship**.
